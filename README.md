@@ -1,7 +1,7 @@
 # takshg.github.io
 
 # 💫 About Me:
-🎙 I’m currently working on building predictive models using machine learning to derive insights from structured datasets and developing a portfolio of data-driven projects.<br><br>👫 I’m looking to collaborate on data science projects, especially those involving sentiment analysis, predictive modelling, and data visualization.<br><br>🤝 I’m looking for help with advanced machine learning techniques like reinforcement learning and deploying machine learning models into production environments.<br><br>🌱 I’m currently learning deep learning frameworks such as TensorFlow and PyTorch, and exploring cloud platforms like AWS for scalable data solutions.<br><br>💬 Ask me about data visualization, Python programming, and sentiment analysis techniques<br>
+🎙 I’m currently working on building predictive models using machine learning to derive insights from structured datasets and developing a portfolio of data-driven projects.<br><br>👫 I’m looking to collaborate on data science projects, especially those involving sentiment analysis, predictive modelling, and data visualization.<br><br>🤝 I’m looking for help with advanced machine learning techniques like reinforcement learning and deploying machine learning models into production environments.<br><br>🌱 I’m currently learning deep learning frameworks such as TensorFlow and PyTorch, and exploring cloud platforms like AWS for scalable data solutions.<br><br>💬 Ask me about Python programming, R-Studio programming, data visualization, data analytics and sentiment analysis techniques<br>
 
 
 ## 🌐 Socials:
